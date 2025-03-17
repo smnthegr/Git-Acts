@@ -1,3 +1,5 @@
 This is my first Git activity.
 
 I'm Samantha Elaine S. Egar. You can call me Sam!
+
+I made changes directly on GitHub!
